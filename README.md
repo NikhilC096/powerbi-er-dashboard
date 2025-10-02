@@ -250,7 +250,7 @@ A: Yes. It’s designed as a practical, ops‑focused example. Screenshots + PBI
 ## 📬 Contact
 
 **Nikhil Chandran** – Business & Data Analyst  
-LinkedIn: https://www.linkedin.com/in/nikhilchandran/  
+LinkedIn: https://www.linkedin.com/in/nikhil-chandran0001/
 Email: nikhilchandran096@gmail.com
 
 ---
